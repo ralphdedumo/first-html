@@ -39,6 +39,7 @@ old. I travel everyday from Calamba to Magallanes to go to school.
 	I'm expecting for this class is to know how to make designs of every platform to be used because I have this background in Web Developing, 
 <br>I want to do more creative, productive and active web.
 </p>
+	<p><a href="https://lab-002.herokuapp.com/index.html" style="color: black">◄ Back</a></p>
 <!-- // Footer & contact info -->
     <footer>
         <div class="content-wrap">
